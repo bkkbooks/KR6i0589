@@ -1,0 +1,110 @@
+canonical_identifier: bkk:krp/KR6i0589/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0589/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛地經論
+  identifiers:
+    krp: KR6i0589
+    cbeta: T26n1530
+    cbeta_old_id: T26n1530
+    authorityid: CA0001031
+    json_key: T1530
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1530.xml
+    old_id: T26n1530
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0589_000-T.yaml, hash: 'sha256:473a4ca9d9394248ac2ff56b3ab073c42cc372a9c368ebc381ddf75488b6d1f0'}
+  - {seq: 1, filename: KR6i0589_001-T.yaml, hash: 'sha256:fa667e2f585a1fb1e583e975d27dd6006daa1b9f74be8e87ccaec83547488305'}
+  - {seq: 2, filename: KR6i0589_002-T.yaml, hash: 'sha256:07a2bc5d9af67bdfe831c08df7556a7ee943d80f113ee130e791a4c18bd9a52c'}
+  - {seq: 3, filename: KR6i0589_003-T.yaml, hash: 'sha256:a79bbbef3940105c1841c67175a33305908f1c9ffb64c1702da3d0c923648bfe'}
+  - {seq: 4, filename: KR6i0589_004-T.yaml, hash: 'sha256:86a8e2f748b8b8a338dff6a15ed9a3e37a8159c3b2f5625647db73cd5dae887d'}
+  - {seq: 5, filename: KR6i0589_005-T.yaml, hash: 'sha256:ffbeee91b059e1d09a2697c40d920325718f7f8f074cd1613d64a30fb1a921f4'}
+  - {seq: 6, filename: KR6i0589_006-T.yaml, hash: 'sha256:334b69ad40167506f0f4d7eb270cbf10a7a784eac84d06cb9977a10ea1d84d60'}
+  - {seq: 7, filename: KR6i0589_007-T.yaml, hash: 'sha256:33e9811d8978f03dccbe87bc9976aa2b2492587942c9dc799debb02c944a9fd7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0589_000-T.markers.yaml, hash: 'sha256:e4bd13a5a77fd43f9289cd6a2ad4c9f02ab36e345e52bdede8159958f3bd978e'}
+  - {seq: 1, role: markers, filename: assets/KR6i0589_001-T.markers.yaml, hash: 'sha256:83d36fd1ee211238ce207138ff08f2a82e38cd895eceb7dc05b1951248a5829e'}
+  - {seq: 2, role: markers, filename: assets/KR6i0589_002-T.markers.yaml, hash: 'sha256:4b16ac54b31b350bd63c6a2303a222b396ddf211fe799f11d6c7da8405d5f510'}
+  - {seq: 3, role: markers, filename: assets/KR6i0589_003-T.markers.yaml, hash: 'sha256:1ee7206dda32edcc41db7961e0cb6ff4562bb62b365eab0d86d416f5e3d81367'}
+  - {seq: 4, role: markers, filename: assets/KR6i0589_004-T.markers.yaml, hash: 'sha256:b75e354fd2b59ae561c4a6e537975e4a24249f4b8cc07a7ad09ba724e47ef082'}
+  - {seq: 5, role: markers, filename: assets/KR6i0589_005-T.markers.yaml, hash: 'sha256:f3246efb2ea2419b8c664f01ff74f3ba87b2dda64b9c32a414aec654c39eaa1e'}
+  - {seq: 6, role: markers, filename: assets/KR6i0589_006-T.markers.yaml, hash: 'sha256:925566bb0f301e953e8ddb2605b013abf71019e62ce0e0ca87fe70937c77d476'}
+  - {seq: 7, role: markers, filename: assets/KR6i0589_007-T.markers.yaml, hash: 'sha256:4d86e6fe29f24bb9993a76a85ba94b09fe972cea69f6e1b1dcea0240aa2d5293'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0589_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6880
+  label: 佛地經論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0589_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7357
+  label: 佛地經論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0589_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7528
+  label: 佛地經論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0589_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7517
+  label: 佛地經論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0589_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6647
+  label: 佛地經論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0589_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 8083
+  label: 佛地經論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0589_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7559
+  label: 佛地經論卷第七
+  type: juan
+  level: 1
+hash: sha256:dfabdc36464d0a1593bf7f309c7b0ccaf5f669a76f6da95fb581eed6ce8388ff

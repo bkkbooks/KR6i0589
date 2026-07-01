@@ -1,0 +1,129 @@
+canonical_identifier: bkk:krp/KR6i0589/v1
+canonical_location: https://kanripo.org/bkk/KR6i0589/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛地經論
+  identifiers:
+    alt_id:
+    - T26n1530
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1530.xml
+    old_id: T26n1530
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 南藏
+  label: 南藏
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0589_000.yaml, hash: 'sha256:473a4ca9d9394248ac2ff56b3ab073c42cc372a9c368ebc381ddf75488b6d1f0'}
+  - {seq: 1, filename: KR6i0589_001.yaml, hash: 'sha256:fb0b8a13dd71ee30c961ffe1d3ed04559e5838d20075424fe4697d31be19bab9'}
+  - {seq: 2, filename: KR6i0589_002.yaml, hash: 'sha256:af57b179daaee4c3acc441c1d0272e4b112a9da3b39df11b4b3f2d55014ce95f'}
+  - {seq: 3, filename: KR6i0589_003.yaml, hash: 'sha256:b8376956beebf7515d3e803deb4016dad565e65782d9fc8c68911d186a4c52ff'}
+  - {seq: 4, filename: KR6i0589_004.yaml, hash: 'sha256:8e42879b11857f1e2210a953068f1a400f5771643b80bb569b783f44f9d8b065'}
+  - {seq: 5, filename: KR6i0589_005.yaml, hash: 'sha256:5a36a2b075bc13f3f7a00cd29258f90ac79dac32f4681532045bdd7427e96d7e'}
+  - {seq: 6, filename: KR6i0589_006.yaml, hash: 'sha256:1a48f277398fc89032cb16a69742b636c78cd368d6f10b04d02d8f3314b8aa29'}
+  - {seq: 7, filename: KR6i0589_007.yaml, hash: 'sha256:828d2e9b5234be4d08eff6aeceac45149e0447ede238e33fc663be6739234b29'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0589_001.markers.yaml, hash: 'sha256:974f19daca04f23b62bf0d7799f8c8ef7e938fdb75796be2620cc3f24bed01bd'}
+  - {seq: 2, role: markers, filename: assets/KR6i0589_002.markers.yaml, hash: 'sha256:e695c1169fb0bab70555365b5eb0cbc26c80d23ed7058461befa04d9e0e1575f'}
+  - {seq: 3, role: markers, filename: assets/KR6i0589_003.markers.yaml, hash: 'sha256:4f306cab1d9c528ce380ef9f59ccc38e16bf819a45d78270147286a3c83ff19f'}
+  - {seq: 4, role: markers, filename: assets/KR6i0589_004.markers.yaml, hash: 'sha256:176848daa34552b81b0402ced3d40a6fe7f53a5712896a8203edd829802be457'}
+  - {seq: 5, role: markers, filename: assets/KR6i0589_005.markers.yaml, hash: 'sha256:20358a153b26823fa00b3ad161db3cbf1c32e8cc0813d2aa92dc90445f9bc1ce'}
+  - {seq: 6, role: markers, filename: assets/KR6i0589_006.markers.yaml, hash: 'sha256:9acad1052c9ea1f2497a9b6318e0f0fc6812957f9d616f5757b17c3717d1d7d4'}
+  - {seq: 7, role: markers, filename: assets/KR6i0589_007.markers.yaml, hash: 'sha256:58a245c7d0f039878f3141b359a8f5110c08013983067a6ed3631e9bc1442fab'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0589_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6880
+  label: 佛地經論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0589_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7357
+  label: 佛地經論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0589_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7528
+  label: 佛地經論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0589_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7517
+  label: 佛地經論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0589_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6647
+  label: 佛地經論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0589_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 8083
+  label: 佛地經論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0589_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7559
+  label: 佛地經論卷第七
+  type: juan
+  level: 1
+hash: sha256:1c3b0876903ab5df91cd74a18d92a42539721ce4d21d9085c92b1afcc419458e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
